@@ -1,6 +1,6 @@
 # Upload.ai
 
-<img src=".github/preview.png" width="100%"/>
+<img src=".github/upload-ai-cover.png" width="100%"/>
 
 Este projeto foi desenvolvido durante o evento NLW da Rocketseat e é uma ferramenta poderosa para criação de títulos chamativos e descrições otimizadas para vídeos do YouTube, tudo com o uso de inteligência artificial.
 
